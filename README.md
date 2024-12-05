@@ -44,13 +44,13 @@
 
 | 更多演示  | 技术交流群①463950209  |  免费获取接口端和pc端的优化版 |
 | ------------ | ------------ | ------------ |
-|![输入图片说明](static/images/wx.jpg)|![输入图片说明](ui/qq.png)|![输入图片说明](ui/kefuqq.jpg)|
+|![输入图片说明](https://gitee.com/i-love-ai/xy-mobile-master/raw/master/static/images/wx.jpg)|![输入图片说明](https://gitee.com/i-love-ai/xy-mobile-master/raw/master/ui/qq.png)|![输入图片说明](https://gitee.com/i-love-ai/xy-mobile-master/raw/master/ui/kefuqq.jpg)|
 
 ### 开源说明 (欢迎合作交流，QQ：3783722918   微信：yuwosuoyuan106)
 | 项目名称  | 项目说明  |  项目费用 |
 | ------------ | --------------------- | ------------ |
 | 星云erp手机版 | erp基础数据管理 | 开源免费 |
-| 星云erp手机版 | erp 资料、业务、财务相关43个功能（见演示） | 需要购买授权 |
+| 星云erp手机版 | erp 资料、业务、财务相关43个功能（见演示） | 加微信或QQ咨询 |
 
 ### 推荐项目，可开放源代码 (欢迎合作交流，QQ：3783722918   微信：yuwosuoyuan106)
 
