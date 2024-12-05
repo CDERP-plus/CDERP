@@ -1,0 +1,245 @@
+{
+	"pages": [{
+			"path": "pages/login",
+			"style": {
+				"navigationBarTitleText": "登录"
+			}
+		}, {
+			"path": "pages/register",
+			"style": {
+				"navigationBarTitleText": "注册"
+			}
+		}, {
+			"path": "pages/index",
+			"style": {
+				"navigationBarTitleText": "首页",
+				"navigationStyle": "custom"
+			}
+		}, {
+			"path": "pages/data/index",
+			"style": {
+				"navigationBarTitleText": "资料"
+
+			}
+		}, {
+			"path": "pages/data/product/index",
+			"style": {
+				"navigationBarTitleText": "商品管理"
+			}
+		},
+		{
+			"path": "pages/data/category/index",
+			"style": {
+				"navigationBarTitleText": "类别管理"
+			}
+		}, {
+			"path": "pages/data/property/index",
+			"style": {
+				"navigationBarTitleText": "属性管理"
+			}
+		}, {
+			"path": "pages/data/property/item/index",
+			"style": {
+				"navigationBarTitleText": "属性值管理"
+			}
+		},
+		{
+			"path": "pages/data/brand/index",
+			"style": {
+				"navigationBarTitleText": "品牌管理"
+			}
+		},
+		{
+			"path": "pages/data/pay-type/index",
+			"style": {
+				"navigationBarTitleText": "支付管理"
+			}
+		},
+		{
+			"path": "pages/data/store-center/index",
+			"style": {
+				"navigationBarTitleText": "仓库管理"
+			}
+		},
+		{
+			"path": "pages/data/address/index",
+			"style": {
+				"navigationBarTitleText": "地址管理"
+			}
+		},
+		{
+			"path": "pages/data/member/index",
+			"style": {
+				"navigationBarTitleText": "会员管理"
+			}
+		}, {
+			"path": "pages/data/logistics/index",
+			"style": {
+				"navigationBarTitleText": "物流管理"
+			}
+		}, {
+			"path": "pages/data/shop/index",
+			"style": {
+				"navigationBarTitleText": "门店管理"
+			}
+		},
+		{
+			"path": "pages/data/customer/index",
+			"style": {
+				"navigationBarTitleText": "客户管理"
+			}
+		},
+		{
+			"path": "pages/data/supplier/index",
+			"style": {
+				"navigationBarTitleText": "供应商管理"
+			}
+		},
+		{
+			"path": "pages/business/index",
+			"style": {
+				"navigationBarTitleText": "业务"
+
+			}
+		},
+		{
+			"path": "pages/business/purchase/config",
+			"style": {
+				"navigationBarTitleText": "采购配置"
+			}
+		},
+		{
+			"path": "pages/business/sale/config",
+			"style": {
+				"navigationBarTitleText": "销售配置"
+
+			}
+		},
+		{
+			"path": "pages/business/retail/config",
+			"style": {
+				"navigationBarTitleText": "零售配置"
+
+			}
+		},
+		{
+			"path": "pages/business/take/config",
+			"style": {
+				"navigationBarTitleText": "盘点配置"
+
+			}
+		}, {
+			"path": "pages/business/purchase/order/index",
+			"style": {
+				"navigationBarTitleText": "采购订单"
+			}
+		},
+		{
+			"path": "pages/business/purchase/order/item/index",
+			"style": {
+				"navigationBarTitleText": "采购订单明细"
+
+			}
+		},
+		{
+			"path": "pages/business/purchase/order/pay-type/index",
+			"style": {
+				"navigationBarTitleText": "采购支付明细"
+			}
+		},
+		{
+			"path": "pages/report/index",
+			"style": {
+				"navigationBarTitleText": "财务"
+
+			}
+		}, {
+			"path": "pages/mine/index",
+			"style": {
+				"navigationBarTitleText": "我的"
+			}
+		}, {
+			"path": "pages/mine/avatar/index",
+			"style": {
+				"navigationBarTitleText": "修改头像"
+			}
+		}, {
+			"path": "pages/mine/info/index",
+			"style": {
+				"navigationBarTitleText": "个人信息"
+			}
+		}, {
+			"path": "pages/mine/info/edit",
+			"style": {
+				"navigationBarTitleText": "编辑资料"
+			}
+		}, {
+			"path": "pages/mine/pwd/index",
+			"style": {
+				"navigationBarTitleText": "修改密码"
+			}
+		}, {
+			"path": "pages/mine/setting/index",
+			"style": {
+				"navigationBarTitleText": "应用设置"
+			}
+		}, {
+			"path": "pages/mine/help/index",
+			"style": {
+				"navigationBarTitleText": "常见问题"
+			}
+		}, {
+			"path": "pages/mine/about/index",
+			"style": {
+				"navigationBarTitleText": "关于我们"
+			}
+		}, {
+			"path": "pages/common/webview/index",
+			"style": {
+				"navigationBarTitleText": "浏览网页"
+			}
+		}, {
+			"path": "pages/common/textview/index",
+			"style": {
+				"navigationBarTitleText": "浏览文本"
+			}
+		}
+	],
+	"tabBar": {
+		"color": "#000000",
+		"selectedColor": "#000000",
+		"borderStyle": "white",
+		// "backgroundColor": "#ffffff",
+		"list": [{
+			"pagePath": "pages/index",
+			"iconPath": "static/images/tabbar/home.png",
+			"selectedIconPath": "static/images/tabbar/home_.png",
+			"text": "首页"
+		}, {
+			"pagePath": "pages/data/index",
+			"iconPath": "static/images/tabbar/work.png",
+			"selectedIconPath": "static/images/tabbar/work_.png",
+			"text": "资料"
+		}, {
+			"pagePath": "pages/business/index",
+			"iconPath": "static/images/tabbar/business.png",
+			"selectedIconPath": "static/images/tabbar/business_.png",
+			"text": "业务"
+		}, {
+			"pagePath": "pages/report/index",
+			"iconPath": "static/images/tabbar/report.png",
+			"selectedIconPath": "static/images/tabbar/report_.png",
+			"text": "财务"
+		}, {
+			"pagePath": "pages/mine/index",
+			"iconPath": "static/images/tabbar/mine.png",
+			"selectedIconPath": "static/images/tabbar/mine_.png",
+			"text": "我的"
+		}]
+	},
+	"globalStyle": {
+		"navigationBarTitleText": "ERP",
+		"navigationBarBackgroundColor": "#3c96f3",
+		"navigationBarTextStyle": "white"
+	}
+}
